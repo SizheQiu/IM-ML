@@ -1,6 +1,5 @@
 # IM-ML
-A machine learning workflow to predict I-Modulons( top-down regulons derived from the ICA result of RNAseq) with DNA sequence features.<br>
-<br>
+A machine learning workflow to predict I-Modulons( top-down regulons derived from the ICA result of RNAseq data) with DNA sequence features.<br>
 ## What is I-Modulon ?
 To learn about I-Modulons, how they are computed, and what they can tell you, please visit https://imodulondb.org/about.html
 ## Workflow outline:
@@ -14,3 +13,5 @@ The workflow depends on:<br>
         1. bitome: https://github.com/SBRG/bitome<br>
         2. pymodulon: https://github.com/SBRG/pymodulon<br>
         3. DNAshapeR:https://github.com/TsuPeiChiu/DNAshapeR<br>
+        4. scikit-learn: https://scikit-learn.org/stable/ <br>
+        5. seaborn statistical data visualization:https://seaborn.pydata.org/index.html<br>
